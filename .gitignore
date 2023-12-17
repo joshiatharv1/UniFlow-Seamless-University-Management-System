@@ -1,0 +1,44 @@
+# Ignore compiled bytecode files
+*.class
+
+
+# Ignore binary files
+*.jar
+*.war
+*.ear
+
+# Ignore IDE files and directories
+.idea/
+eclipse/
+*.iml
+
+# Ignore build output directories
+bin/
+target/
+out/
+
+# Ignore log files and data files
+*.log
+*.dat
+*.db
+
+# Ignore system and temporary files
+Thumbs.db
+.DS_Store
+
+# Ignore user-specific files and settings
+.settings/
+.project
+.classpath
+.gradle/
+out/
+.build/
+build
+build/
+.gradle/
+private/
+private
+build/
+.gradle/
+private/
+private
